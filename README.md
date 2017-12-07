@@ -1,3 +1,5 @@
-# Learn-4-programming-languages-Simultaneously
+# LeetCode-Solutions-JAVA-PYTHON-R-JSP
 
-A tutorial of learn JAVA, PYTHON, JSP, R simulatenously.
+One question, four solutions.
+
+I plan to use one year to finish these project.
