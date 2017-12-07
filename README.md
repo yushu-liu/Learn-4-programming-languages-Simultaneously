@@ -1,3 +1,3 @@
-# Learn-5-programming-languages-Simultaneously
+# Learn-4-programming-languages-Simultaneously
 
-A tutorial of learn C++, JAVA, PYTHON, JSP, R simulatenously.
+A tutorial of learn JAVA, PYTHON, JSP, R simulatenously.
